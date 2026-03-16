@@ -1,0 +1,5 @@
+{
+  "name": "VulnScan - Web Vulnerability Scanner",
+  "description": "A basic security tool to scan websites for open ports, analyze HTTP security headers, and identify common vulnerabilities.",
+  "requestFramePermissions": []
+}
